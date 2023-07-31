@@ -2,7 +2,7 @@
 
 Traffic reduction model underpinning Green Alliance report [Moving on: greener travel for the UK](https://green-alliance.org.uk/publication/moving-on-greener-travel-for-the-uk/)
 
-Deployed [here on Google Colab](https://colab.research.google.com/github/fiftysevendegreesofrad/TrafRed/blob/master/TrafRed.ipynb) for now
+[Link to latest deployment](https://users.cs.cf.ac.uk/CooperCH/TrafRed/).
 
 Created by Crispin Cooper & Paul Haggar.
 
